@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="mondey">понедельник</string>
+    <string name="tuesday">вторник</string>
+    <string name="wednesday">среда</string>
+    <string name="thursday">четверг</string>
+    <string name="friday">пятница</string>
+    <string name="saturday">суббота</string>
+    <string name="sunday">воскресенье</string>
+
+    <string name="plus_15">+15°C</string>
+    <string name="plus_20">+20°C</string>
+    <string name="plus_25">+25°C</string>
+    <string name="plus_10">+10°C</string>
+    <string name="minus_5">-5°C</string>
+    <string name="minus_10">-10°C</string>
+    <string name="minus_15">-15°C</string>
+    <string name="plus_temperature">plus_temperature</string>
+    <string name="minus_temperature">minus_temperature</string>
+
+
+</resources>
